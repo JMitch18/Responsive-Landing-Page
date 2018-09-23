@@ -82,7 +82,7 @@ a {
 }
 
 section#entertainment {
-  background: url(/img/section-bg.jpg) no-repeat bottom/cover;
+  background: url(./img/section-bg.jpg) no-repeat bottom/cover;
   padding: 10rem 0;
 }
 
@@ -96,7 +96,7 @@ section#entertainment {
 #showcase {
   margin: 0;
   padding: 0;
-  background: url("/img/braided-hair-phone.jpg") no-repeat center/cover;
+  background: url("./img/braided-hair-phone.jpg") no-repeat center/cover;
   width: 100%;
   height: 100vh;
   position: relative;
